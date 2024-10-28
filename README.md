@@ -5,12 +5,12 @@ The output of the scrapper a CSV file though it can easily route it to a databas
 
 - Note that the proxy provided are free and may not work if you choose to run the project.
 
-## Installation Instruction
+## Installation Instructions
 
 ```
 git clone https://github.com/Eliya-G/book-scrapper
 ```
-In the repo run these commands.
+In the repo run these command.
 ```
 pipenv install -r requirements.txt
 ```
