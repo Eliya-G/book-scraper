@@ -1,5 +1,5 @@
 
-The purpose of this repository is to display my method for fully scrapping <a href="https://books.toscrape.com/">books.toscrape.com</a>.
+The purpose of this repository is to display my method for fully scrapping [books.toscrape.com](https://books.toscrape.com/).
 
 The output of the scrapper a CSV file though it can easily route it to a database.
 
@@ -10,7 +10,6 @@ The output of the scrapper a CSV file though it can easily route it to a databas
 ```
 git clone https://github.com/Eliya-G/book-scrapper
 ```
-
 
 ```
 pipenv install -r requirements.txt
