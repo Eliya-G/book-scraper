@@ -10,7 +10,7 @@ The output of the scrapper a CSV file though it can easily route it to a databas
 ```
 git clone https://github.com/Eliya-G/book-scrapper
 ```
-In the repo run these command.
+In the repo run this command.
 ```
 pipenv install -r requirements.txt
 ```
