@@ -1,3 +1,4 @@
+![project_icon](https://drive.google.com/uc?export=view&id=1sa4fI-8rlkFQ_faauhvvUq5SCTOHBRic)
 
 The purpose of this repository is to display my method for fully scrapping [books.toscrape.com](https://books.toscrape.com/).
 
