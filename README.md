@@ -17,5 +17,5 @@ pipenv install -r requirements.txt
 ```
 
 ## Data Preview
-
+![spreadsheet_gif](https://drive.google.com/uc?export=view&id=1JEjJYGe2PaFk0fOoVHQpEOlyXwv8wwAl)
 
