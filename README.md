@@ -1,6 +1,6 @@
 ![project_icon](https://raw.githubusercontent.com/Eliya-G/book-scraper/refs/heads/main/.gitihub_images/scrapping_icon.png)
 
-The purpose of this repository is to display my method for fully scrapping [books.toscrape.com](https://books.toscrape.com/).
+The purpose of this repository is to display my method for fully scraping [books.toscrape.com](https://books.toscrape.com/).
 
 The output of the scraper a CSV file though it can easily route it to a database.
 
