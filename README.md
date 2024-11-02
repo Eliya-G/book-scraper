@@ -1,4 +1,4 @@
-![project_icon](https://raw.githubusercontent.com/Eliya-G/book-scraper/refs/heads/main/.gitihub_images/scrapping_icon.png)
+![project_icon](https://raw.githubusercontent.com/Eliya-G/book-scrapper/refs/heads/main/.gitihub_images/scrapping_icon.png)
 
 The purpose of this repository is to display my method for fully scraping [books.toscrape.com](https://books.toscrape.com/).
 
@@ -17,4 +17,4 @@ pipenv install -r requirements.txt
 ```
 
 ## Data Preview
-![spreadsheet_gif](https://github.com/Eliya-G/book-scraper/blob/main/.gitihub_images/spreadsheet.gif?raw=true)
+![spreadsheet_gif](https://github.com/Eliya-G/book-scrapper/blob/main/.gitihub_images/spreadsheet.gif?raw=true)
