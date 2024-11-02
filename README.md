@@ -9,7 +9,7 @@ The output of the scraper a CSV file though it can easily route it to a database
 ## Installation Instructions
 
 ```
-git clone https://github.com/Eliya-G/book-scraper
+git clone https://github.com/Eliya-G/book-scrapper
 ```
 In the repo run this command.
 ```
