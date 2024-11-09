@@ -2,7 +2,7 @@
 
 The purpose of this repository is to display my method for fully scraping [books.toscrape.com](https://books.toscrape.com/).
 
-The output of the scraper is a CSV file, though it can easily be routed to a database.
+The output of the scraper is a CSV file, that is incuded in this repo. Though it can easily be routed to a database.
 
 - Note that the proxys provided are free and may not work if you choose to run the project. A list or an api containing proxys maybe required to run the project.
 
