@@ -1,4 +1,4 @@
-![project_icon](https://raw.githubusercontent.com/Eliya-G/book-scraper/refs/heads/main/.gitihub_assets/scraping_icon.png)
+![project_icon](https://github.com/Eliya-G/book-scraper/blob/main/github_images/scraping_icon.png?raw=true)
 
 The purpose of this repository is to display my method for fully scraping [books.toscrape.com](https://books.toscrape.com/).
 
